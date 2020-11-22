@@ -1,0 +1,14 @@
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/CMakeFiles/install/strip.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/CMakeFiles/edit_cache.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/CMakeFiles/install.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/CMakeFiles/proyecto_final.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/CMakeFiles/rebuild_cache.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/CMakeFiles/list_install_components.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/CMakeFiles/install/local.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/flutter/CMakeFiles/install/strip.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/flutter/CMakeFiles/install/local.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/flutter/CMakeFiles/edit_cache.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/flutter/CMakeFiles/list_install_components.dir
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/flutter/CMakeFiles/install.dir

@@ -1,0 +1,9 @@
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/proyecto_final
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/data/icudtl.dat
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/lib/libflutter_linux_gtk.so
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/data/flutter_assets/FontManifest.json
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/data/flutter_assets/NOTICES
+/home/saray/AndroidStudioProjects/proyecto_final/build/linux/debug/bundle/data/flutter_assets/kernel_blob.bin
