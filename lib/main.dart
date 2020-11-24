@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:proyecto_final/pages/wavefront.dart';
+import 'package:proyecto_final/pages/Wavefront-main.dart';
 
 
 void main() {
