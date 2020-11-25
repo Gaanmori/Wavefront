@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:Wavefront-main/page/main.dart';
-
+import 'package:Wavefront-main/pages/wavefront.dart';
 
 void main() {
   runApp( MaterialApp(
