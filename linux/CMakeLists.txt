@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 project(runner LANGUAGES CXX)
 
-set(BINARY_NAME "proyecto_final")
-set(APPLICATION_ID "com.example.proyecto_final")
+set(BINARY_NAME "flutter_app")
+set(APPLICATION_ID "com.example.flutter_app")
 
 cmake_policy(SET CMP0063 NEW)
 
